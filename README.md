@@ -1,6 +1,7 @@
 # MannySoye's Portfolio
 
-![MannySoye's Portfolio](https://github.com/mannysoye/mannysoye/assets/102897944/372bb1f4-b36b-48ad-b2fa-92fe8e6897e6)
+![MannySoye's Portfolio](https://github.com/mannysoye/mannysoye/assets/102897944/03f2ac07-1fad-418a-b537-45a0f886015a)
+
 
 ## About Me
 
