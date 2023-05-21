@@ -72,7 +72,6 @@ A Python-based Twitter bot that posts random images from top subreddit posts usi
 I'm open to collaboration and opportunities to work on exciting projects. Feel free to reach out to me via the following channels:
 
 - Email: [mannysoye@gmail.com](mailto:mannysoye@gmail.com)
-- LinkedIn: [linkedin.com/in/mannysoye](https://www.linkedin.com/in/mannysoye)
 - Twitter: [@mannysoye](https://twitter.com/mannysoye)
 - Instagram: [@mannysoye](https://www.instagram.com/mannysoye)
 
