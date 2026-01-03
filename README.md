@@ -1,98 +1,27 @@
-# MannySoye's Portfolio
+<h1 align="center">Hi 👋, I'm Emmanuel (aka Manny)</h1>
+<h3 align="center">I’m a Computer Science student focused on Python, AI/ML, and cloud-based systems. I enjoy building practical tools, automation, and intelligent systems that solve real problems. I’ve worked on full stack web projects (including business websites), but my current focus is on cloud engineering, scalable backend systems, and AI-driven applications. I’m comfortable working in Linux environments and I’m actively building and shipping projects while learning in public.</h3>
 
-![MannySoye's Portfolio](https://github.com/mannysoye/mannysoye/assets/102897944/03f2ac07-1fad-418a-b537-45a0f886015a)
+- 🔭 I’m currently working on **AI & cloud-based projects, automation tools, and backend systems**
 
+- 🌱 I’m currently learning **Cloud engineering, scalable infrastructure, and advanced AI/ML concepts**
 
-## About Me
+- 💬 Ask me about **Anything related to robotics and AI**
 
-I'm Emmanuel, a driven and dedicated Junior Software Developer with a focus on full-stack development. I believe in continuous learning and growth, and I enjoy exploring new technologies and frameworks to expand my skill set. Currently based in Nigeria, I aspire to make a positive impact on the world through my coding abilities.
+- 📫 How to reach me **linkedin.com/in/mannysoye**
 
-## Skills
+- ⚡ Fun fact **I like editing and creating video essays on random stuff :)**
 
-### 🐍 General Purpose
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/mannysoye" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mannysoye" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/mannysoye" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mannysoye" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/mannysoye" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mannysoye" height="30" width="40" /></a>
+</p>
 
-- Python
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-### 🌐 Front-end Development
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mannysoye&show_icons=true&locale=en&layout=compact" alt="mannysoye" /></p>
 
-- JavaScript
-- Figma
-- Tailwind
-- Bootstrap
-- Three.js
-- React
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mannysoye&show_icons=true&locale=en" alt="mannysoye" /></p>
 
-### 🚀 Back-end Development
-
-- Node.js
-- Express
-- SQL
-- MongoDB
-
-### 📱 Mobile App Development
-
-- Android Studio
-- Flutter
-
-### 🎥 3D Modeling and Animation
-
-- Blender
-
-### 🧠 Data Science and Machine Learning
-
-- Pandas
-- TensorFlow
-- Keras
-
-### 🔀 Version Control
-
-- Git
-
-## Projects
-
-### Project 1: The Cloud Feed
-
-[![The Cloud Feed](https://github.com/mannysoye/mannysoye/assets/102897944/a5aeef42-7c86-4458-9c3a-99b2d8b2baef)](https://github.com/mannysoye/TheCloudFeed)
-A Python-based Twitter bot that posts random images from top subreddit posts using the PRAW and tweepy libraries. Deployed on OpenShift for free!
-
-**Note:** Visit my [GitHub profile](https://github.com/mannysoye) to explore more of my projects.
-
-## Achievements
-
-- Contributed to an open-source project by fixing bugs and implementing new features.
-- Actively participated in online coding communities, assisting others and sharing knowledge.
-- Learned Blender and now working on making 3D assets for webpages.
-
-## Education
-
-- Graduated from a Coding Bootcamp and enhanced my web development skills.
-- Aspiring to study Computer Science or Software Development and Work as a Robotics Engineer.
-
-## Contact
-
-I'm open to collaboration and opportunities to work on exciting projects. Feel free to reach out to me via the following channels:
-
-- Email: [mannysoye@gmail.com](mailto:mannysoye@gmail.com)
-- Twitter: [@mannysoye](https://twitter.com/mannysoye)
-- Instagram: [@mannysoye](https://www.instagram.com/mannysoye)
-
-## Roadmap
-
-Here's a roadmap showcasing MannySoye's journey as a developer:
-
-- 📅 2020: Started programming journey
-  - Python: Built basic command-line applications
-- 📅 2021: Expanding Skills
-  - Front-end Development: Learned JavaScript and developed web applications
-  - Mobile App Development: Explored Android Studio and developed simple Android apps
-- 📅 2022: Full-Stack Development
-  - Back-end Development: Learned Node.js and Express, integrated with databases
-  - Data Science and Machine Learning: Explored Pandas, TensorFlow, and Keras for data analysis and modeling
-- 📅 2023: Diversifying Projects
-  - 3D Modeling and Animation: Explored Blender and created 3D models and animations
-  - Portfolio Website: Developed a personal portfolio website using HTML, CSS, and JavaScript
-
- Future Goals
-  - Continuous learning and growth
-  - Contributing to open-source projects
-  - Exploring new technologies and frameworks
