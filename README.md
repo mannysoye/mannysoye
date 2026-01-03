@@ -1,27 +1,70 @@
 <h1 align="center">Hi 👋, I'm Emmanuel (aka Manny)</h1>
-<h3 align="center">I’m a Computer Science student focused on Python, AI/ML, and cloud-based systems. I enjoy building practical tools, automation, and intelligent systems that solve real problems. I’ve worked on full stack web projects (including business websites), but my current focus is on cloud engineering, scalable backend systems, and AI-driven applications. I’m comfortable working in Linux environments and I’m actively building and shipping projects while learning in public.</h3>
+<h3 align="center">
+I’m a Computer Science student focused on Python, AI/ML, and cloud-based systems.  
+I enjoy building practical tools, automation, and intelligent systems that solve real problems.  
+I’ve built full-stack web projects (including websites for small businesses) but my current focus is cloud engineering, scalable backends, and AI-driven apps.  
+Comfortable in Linux — actively building and shipping projects while learning in public.
+</h3>
 
-- 🔭 I’m currently working on **AI & cloud-based projects, automation tools, and backend systems**
 
-- 🌱 I’m currently learning **Cloud engineering, scalable infrastructure, and advanced AI/ML concepts**
+- 🔭 I’m currently working on **AI & cloud-based projects, automation tools, and backend systems**  
+- 🌱 I’m currently learning **Cloud engineering (AWS), scalable infrastructure, and advanced AI/ML**  
+- 👥 I’m part of my university **Technical Club** — we organise and maintain tech events on campus  
+- 💬 Ask me about **Python, Linux, AI basics, and full-stack fundamentals**  
+- 📫 Reach me: [linkedin](https://linkedin.com/in/mannysoye) • mannysoye@gmail.com  
+- ⚡ Fun fact: I like editing and creating video essays on random stuff :)
 
-- 💬 Ask me about **Anything related to robotics and AI**
 
-- 📫 How to reach me **linkedin.com/in/mannysoye**
+### 🔭 Featured Projects
+- **IP Camera Face Recognition** — simple face detection using OpenCV + Keras prototype  
+  [Check it out](https://github.com/mannysoye/IP-Camera-Face-Recognition) 
+- **The Cloud Feed Bot** — automated Twitter posting and scheduling using Python & cloud services  
+  [Check it out](https://github.com/mannysoye/TheCloudFeed)
+- **And many more that are not yet public...**
+---
 
-- ⚡ Fun fact **I like editing and creating video essays on random stuff :)**
-
-<h3 align="left">Connect with me:</h3>
+### 🛠️ Languages & Tools
 <p align="left">
-<a href="https://linkedin.com/in/mannysoye" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mannysoye" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/mannysoye" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mannysoye" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/mannysoye" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mannysoye" height="30" width="40" /></a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mannysoye&show_icons=true&locale=en&layout=compact" alt="mannysoye" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mannysoye&show_icons=true&locale=en" alt="mannysoye" /></p>
+### 🏅 Certifications & Education
+- **Full-Stack Application Development** — El Academy, Abuja  
+- **Artificial Intelligence & Machine Learning** — CTTC, Bhubaneswar  
+- **Python Programming** — El Academy, Abuja  
+- BSc Computer Science (2024–2027)
+
+---
+
+### 📫 Connect with me
+<p align="left">
+  <a href="https://linkedin.com/in/mannysoye" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mannysoye" height="30" width="40" />
+  </a>
+  <a href="https://github.com/mannysoye" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="30" width="40" />
+  </a>
+  <a href="https://www.youtube.com/@mannysoye" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="30" width="40" />
+  </a>
+  <a href="mailto:mannysoye@gmail.com" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="email" height="30" width="40" />
+  </a>
+</p>
+
+---
 
